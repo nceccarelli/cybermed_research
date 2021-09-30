@@ -1,4 +1,4 @@
-# Respiratory Sound Detection Scripts
+# Respiratory Sound Detection
 
 ## Scripts
 
